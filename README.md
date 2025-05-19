@@ -9,22 +9,26 @@
 ---
 
 ### IOS 模拟器效果
-<img src='img/water_ios.gif' width="300" alt="Android 模拟器效果">
+<img src='flutter-samples/samples/water_pump
+/img/water_ios.gif' width="300" alt="Android 模拟器效果">
 
 ---
 
 ### macOS 效果
-<img src='img/water_macos.gif' width="300" alt="Android 模拟器效果">
+<img src='flutter-samples/samples/water_pump
+/img/water_macos.gif' width="300" alt="Android 模拟器效果">
 
 ---
 
 ### Android 模拟器效果
-<img src='img/water_android.gif' width="300" alt="Android 模拟器效果">
+<img src='flutter-samples/samples/water_pump
+/img/water_android.gif' width="300" alt="Android 模拟器效果">
 
 ---
 
 ### Windows 10效果
-<img src='img/water_win10.gif' width="300" alt="window 10效果">
+<img src='flutter-samples/samples/water_pump
+/img/water_win10.gif' width="300" alt="window 10效果">
 
 ----
 
