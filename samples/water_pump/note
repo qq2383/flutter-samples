@@ -1,0 +1,5 @@
+macOS：http 请求
+
+在 macOS/Runner/DebugProfile.entitlements 文件增加以下内容：
+    <key>com.apple.security.network.client</key>
+    <true/>
